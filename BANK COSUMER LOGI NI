@@ -1,0 +1,19 @@
+SRS
+INTERDOUTION :BANK COSUMER LOGINI  
+PURPOSE:THE  PURPOSE OF BANK to provide the secvies for loin and deposite
+SCOPE:main aim to provide the bank informationand user frindely sevies to the costomers
+featurs 
+*Bank and coustmer can acces the information
+*bank we can easy take loin
+*easyly the bank costumer can acces the information about trasation 
+
+User Authentication
+*The system shall provide secure login functionality for bank staff to access customer details.
+functional
+*the bank and the cosumer have the permisson
+* it is safe and privly will we will safe
+non-functional
+*the user cant't able login while sever busy or sever problem
+*trastion will fail in some time 
+*the trastion amount will late diceted to account
+
